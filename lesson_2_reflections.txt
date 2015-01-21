@@ -3,3 +3,7 @@ When you initialize a repository it establishes the requirements for creating a 
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 The staging area is a a spot to cache files to add to a commit, it's the inbetween place where files are selected from the working directory to add to the repository.
+
+How can you use the staging area to make sure you have one commit per logical change?
+You can stage individual files from the working directory and commit them one at a time to create incremental commits.
+
