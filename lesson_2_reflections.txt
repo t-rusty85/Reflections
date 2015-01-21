@@ -7,3 +7,6 @@ The staging area is a a spot to cache files to add to a commit, it's the inbetwe
 How can you use the staging area to make sure you have one commit per logical change?
 You can stage individual files from the working directory and commit them one at a time to create incremental commits.
 
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+Branches allow you to maintain working/released code as well as experimental versions of code.
+
