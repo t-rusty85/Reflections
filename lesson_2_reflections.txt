@@ -10,3 +10,5 @@ You can stage individual files from the working directory and commit them one at
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 Branches allow you to maintain working/released code as well as experimental versions of code.
 
+How do the diagrams help you visualize the branch structure?
+Diagrams help you visualize inheritance, common ancestors, relations between different development branches.
