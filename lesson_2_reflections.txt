@@ -12,3 +12,6 @@ Branches allow you to maintain working/released code as well as experimental ver
 
 How do the diagrams help you visualize the branch structure?
 Diagrams help you visualize inheritance, common ancestors, relations between different development branches.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+Merging two branches creates a single branch and combines the accumulated changes between the two.  We show it in the diagram as wuch, because it clarifies the inheritance of the current master branch as well as where certain commits originated.
