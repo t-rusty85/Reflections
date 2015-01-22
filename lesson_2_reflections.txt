@@ -15,3 +15,6 @@ Diagrams help you visualize inheritance, common ancestors, relations between dif
 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 Merging two branches creates a single branch and combines the accumulated changes between the two.  We show it in the diagram as wuch, because it clarifies the inheritance of the current master branch as well as where certain commits originated.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Automatic is obviously much faster, but it clearly can't account for every type of difference, that would be too complex.  Manual merging allows for more complicated merges, but is more time intensive.
