@@ -12,3 +12,6 @@ It is easier to perform merges with the last known state stored locally.
 
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 It woul dbe possible to collaborate on a single document in DropBox or Google Drive.  You wouldn't have to worry about merges, but you also couldn't work very well in parallel.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+If you are deveeloping in parallel or developing for something that you don't want to be live, it is best to use a branch.  Using branches is more complicated, but allows much more flexibility.
